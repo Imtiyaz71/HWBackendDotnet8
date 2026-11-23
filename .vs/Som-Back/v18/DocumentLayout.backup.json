@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\homework-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{071C6A4A-1F3B-4C26-8D19-DDCCB7C6A743}|Som-Back\\Som-Back.csproj|c:\\users\\hp\\downloads\\homework-main\\som-back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{071C6A4A-1F3B-4C26-8D19-DDCCB7C6A743}|Som-Back\\Som-Back.csproj|solutionrelative:som-back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Back\\appsettings.json",
+              "RelativeDocumentMoniker": "Som-Back\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Back\\appsettings.json",
+              "RelativeToolTip": "Som-Back\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-22T19:37:19.169Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

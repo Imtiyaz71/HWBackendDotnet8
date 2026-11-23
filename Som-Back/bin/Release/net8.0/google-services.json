@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460154119858",
+    "project_id": "school-homework-57049",
+    "storage_bucket": "school-homework-57049.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460154119858:android:c8ea40969a4961de110bab",
+        "android_client_info": {
+          "package_name": "com.JMIM.school_notebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-42TvW_5L6DKaHNT4NtTBETQktHSWm9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

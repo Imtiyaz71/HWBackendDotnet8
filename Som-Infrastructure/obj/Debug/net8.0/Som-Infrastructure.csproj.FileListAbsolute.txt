@@ -1,0 +1,17 @@
+C:\Users\HP\Downloads\homework-main\Som-Infrastructure\bin\Debug\net8.0\Som-Infrastructure.deps.json
+C:\Users\HP\Downloads\homework-main\Som-Infrastructure\bin\Debug\net8.0\Som-Infrastructure.dll
+C:\Users\HP\Downloads\homework-main\Som-Infrastructure\bin\Debug\net8.0\Som-Infrastructure.pdb
+C:\Users\HP\Downloads\homework-main\Som-Infrastructure\bin\Debug\net8.0\Som-Models.dll
+C:\Users\HP\Downloads\homework-main\Som-Infrastructure\bin\Debug\net8.0\Som-Service.dll
+C:\Users\HP\Downloads\homework-main\Som-Infrastructure\bin\Debug\net8.0\Som-Models.pdb
+C:\Users\HP\Downloads\homework-main\Som-Infrastructure\bin\Debug\net8.0\Som-Service.pdb
+C:\Users\HP\Downloads\homework-main\Som-Infrastructure\obj\Debug\net8.0\Som-Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\homework-main\Som-Infrastructure\obj\Debug\net8.0\Som-Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\homework-main\Som-Infrastructure\obj\Debug\net8.0\Som-Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\homework-main\Som-Infrastructure\obj\Debug\net8.0\Som-Infrastructure.AssemblyInfo.cs
+C:\Users\HP\Downloads\homework-main\Som-Infrastructure\obj\Debug\net8.0\Som-Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\homework-main\Som-Infrastructure\obj\Debug\net8.0\Som-Infr.2D5CF9F9.Up2Date
+C:\Users\HP\Downloads\homework-main\Som-Infrastructure\obj\Debug\net8.0\Som-Infrastructure.dll
+C:\Users\HP\Downloads\homework-main\Som-Infrastructure\obj\Debug\net8.0\refint\Som-Infrastructure.dll
+C:\Users\HP\Downloads\homework-main\Som-Infrastructure\obj\Debug\net8.0\Som-Infrastructure.pdb
+C:\Users\HP\Downloads\homework-main\Som-Infrastructure\obj\Debug\net8.0\ref\Som-Infrastructure.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\homework-main\Som-Service\bin\Release\net8.0\Som-Service.deps.json
+C:\Users\HP\Downloads\homework-main\Som-Service\bin\Release\net8.0\Som-Service.dll
+C:\Users\HP\Downloads\homework-main\Som-Service\bin\Release\net8.0\Som-Service.pdb
+C:\Users\HP\Downloads\homework-main\Som-Service\bin\Release\net8.0\Som-Models.dll
+C:\Users\HP\Downloads\homework-main\Som-Service\bin\Release\net8.0\Som-Models.pdb
+C:\Users\HP\Downloads\homework-main\Som-Service\obj\Release\net8.0\Som-Service.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\homework-main\Som-Service\obj\Release\net8.0\Som-Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\homework-main\Som-Service\obj\Release\net8.0\Som-Service.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\homework-main\Som-Service\obj\Release\net8.0\Som-Service.AssemblyInfo.cs
+C:\Users\HP\Downloads\homework-main\Som-Service\obj\Release\net8.0\Som-Service.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\homework-main\Som-Service\obj\Release\net8.0\Som-Serv.318B0633.Up2Date
+C:\Users\HP\Downloads\homework-main\Som-Service\obj\Release\net8.0\Som-Service.dll
+C:\Users\HP\Downloads\homework-main\Som-Service\obj\Release\net8.0\refint\Som-Service.dll
+C:\Users\HP\Downloads\homework-main\Som-Service\obj\Release\net8.0\Som-Service.pdb
+C:\Users\HP\Downloads\homework-main\Som-Service\obj\Release\net8.0\ref\Som-Service.dll
