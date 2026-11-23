@@ -11,3 +11,17 @@ C:\Users\HP\Downloads\homework-main\Som-Models\obj\Release\net8.0\refint\Som-Mod
 C:\Users\HP\Downloads\homework-main\Som-Models\obj\Release\net8.0\Som-Models.pdb
 C:\Users\HP\Downloads\homework-main\Som-Models\obj\Release\net8.0\ref\Som-Models.dll
 C:\Users\HP\Downloads\homework-main\Som-Models\obj\Release\net8.0\Som-Models.csproj.Up2Date
+F:\HomeWork\Backend\HWBackendDotnet8\Som-Models\bin\Release\net8.0\Som-Models.deps.json
+F:\HomeWork\Backend\HWBackendDotnet8\Som-Models\bin\Release\net8.0\Som-Models.dll
+F:\HomeWork\Backend\HWBackendDotnet8\Som-Models\bin\Release\net8.0\Som-Models.pdb
+F:\HomeWork\Backend\HWBackendDotnet8\Som-Models\obj\Release\net8.0\Som-Models.csproj.AssemblyReference.cache
+F:\HomeWork\Backend\HWBackendDotnet8\Som-Models\obj\Release\net8.0\Som-Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\HomeWork\Backend\HWBackendDotnet8\Som-Models\obj\Release\net8.0\Som-Models.AssemblyInfoInputs.cache
+F:\HomeWork\Backend\HWBackendDotnet8\Som-Models\obj\Release\net8.0\Som-Models.AssemblyInfo.cs
+F:\HomeWork\Backend\HWBackendDotnet8\Som-Models\obj\Release\net8.0\Som-Models.csproj.CoreCompileInputs.cache
+F:\HomeWork\Backend\HWBackendDotnet8\Som-Models\obj\Release\net8.0\Som-Models.sourcelink.json
+F:\HomeWork\Backend\HWBackendDotnet8\Som-Models\obj\Release\net8.0\Som-Models.dll
+F:\HomeWork\Backend\HWBackendDotnet8\Som-Models\obj\Release\net8.0\refint\Som-Models.dll
+F:\HomeWork\Backend\HWBackendDotnet8\Som-Models\obj\Release\net8.0\Som-Models.pdb
+F:\HomeWork\Backend\HWBackendDotnet8\Som-Models\obj\Release\net8.0\ref\Som-Models.dll
+F:\HomeWork\Backend\HWBackendDotnet8\Som-Models\obj\Release\net8.0\Som-Models.csproj.Up2Date

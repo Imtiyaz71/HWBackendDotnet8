@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Downloads\\homework-main\\Som-Back\\Som-Back.csproj": {}
+    "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Back\\Som-Back.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Downloads\\homework-main\\Som-Back\\Som-Back.csproj": {
+    "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Back\\Som-Back.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Back\\Som-Back.csproj",
+        "projectUniqueName": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Back\\Som-Back.csproj",
         "projectName": "Som-Back",
-        "projectPath": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Back\\Som-Back.csproj",
+        "projectPath": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Back\\Som-Back.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Back\\obj\\",
+        "outputPath": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Back\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
             "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Downloads\\homework-main\\Som-Infrastructure\\Som-Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Infrastructure\\Som-Infrastructure.csproj"
+              "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Infrastructure\\Som-Infrastructure.csproj": {
+                "projectPath": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Infrastructure\\Som-Infrastructure.csproj"
               },
-              "C:\\Users\\HP\\Downloads\\homework-main\\Som-Models\\Som-Models.csproj": {
-                "projectPath": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Models\\Som-Models.csproj"
+              "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Models\\Som-Models.csproj": {
+                "projectPath": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Models\\Som-Models.csproj"
               },
-              "C:\\Users\\HP\\Downloads\\homework-main\\Som-Service\\Som-Service.csproj": {
-                "projectPath": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Service\\Som-Service.csproj"
+              "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Service\\Som-Service.csproj": {
+                "projectPath": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Service\\Som-Service.csproj"
               }
             }
           }
@@ -110,14 +110,14 @@
         }
       }
     },
-    "C:\\Users\\HP\\Downloads\\homework-main\\Som-Infrastructure\\Som-Infrastructure.csproj": {
+    "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Infrastructure\\Som-Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Infrastructure\\Som-Infrastructure.csproj",
+        "projectUniqueName": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Infrastructure\\Som-Infrastructure.csproj",
         "projectName": "Som-Infrastructure",
-        "projectPath": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Infrastructure\\Som-Infrastructure.csproj",
+        "projectPath": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Infrastructure\\Som-Infrastructure.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Infrastructure\\obj\\",
+        "outputPath": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -139,11 +139,11 @@
             "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Downloads\\homework-main\\Som-Models\\Som-Models.csproj": {
-                "projectPath": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Models\\Som-Models.csproj"
+              "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Models\\Som-Models.csproj": {
+                "projectPath": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Models\\Som-Models.csproj"
               },
-              "C:\\Users\\HP\\Downloads\\homework-main\\Som-Service\\Som-Service.csproj": {
-                "projectPath": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Service\\Som-Service.csproj"
+              "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Service\\Som-Service.csproj": {
+                "projectPath": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Service\\Som-Service.csproj"
               }
             }
           }
@@ -202,14 +202,14 @@
         }
       }
     },
-    "C:\\Users\\HP\\Downloads\\homework-main\\Som-Models\\Som-Models.csproj": {
+    "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Models\\Som-Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Models\\Som-Models.csproj",
+        "projectUniqueName": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Models\\Som-Models.csproj",
         "projectName": "Som-Models",
-        "projectPath": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Models\\Som-Models.csproj",
+        "projectPath": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Models\\Som-Models.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Models\\obj\\",
+        "outputPath": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -279,14 +279,14 @@
         }
       }
     },
-    "C:\\Users\\HP\\Downloads\\homework-main\\Som-Service\\Som-Service.csproj": {
+    "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Service\\Som-Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Service\\Som-Service.csproj",
+        "projectUniqueName": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Service\\Som-Service.csproj",
         "projectName": "Som-Service",
-        "projectPath": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Service\\Som-Service.csproj",
+        "projectPath": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Service\\Som-Service.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Service\\obj\\",
+        "outputPath": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -308,8 +308,8 @@
             "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Downloads\\homework-main\\Som-Models\\Som-Models.csproj": {
-                "projectPath": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Models\\Som-Models.csproj"
+              "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Models\\Som-Models.csproj": {
+                "projectPath": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Models\\Som-Models.csproj"
               }
             }
           }

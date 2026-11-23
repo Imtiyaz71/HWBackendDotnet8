@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Downloads\\homework-main\\Som-Models\\Som-Models.csproj": {}
+    "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Models\\Som-Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Downloads\\homework-main\\Som-Models\\Som-Models.csproj": {
+    "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Models\\Som-Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Models\\Som-Models.csproj",
+        "projectUniqueName": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Models\\Som-Models.csproj",
         "projectName": "Som-Models",
-        "projectPath": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Models\\Som-Models.csproj",
+        "projectPath": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Models\\Som-Models.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Models\\obj\\",
+        "outputPath": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

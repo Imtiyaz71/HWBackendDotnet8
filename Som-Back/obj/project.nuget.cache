@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O2siugop95w=",
+  "dgSpecHash": "KPvEAE5T70E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Downloads\\homework-main\\Som-Back\\Som-Back.csproj",
+  "projectFilePath": "F:\\HomeWork\\Backend\\HWBackendDotnet8\\Som-Back\\Som-Back.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.13.2\\azure.identity.1.13.2.nupkg.sha512",
